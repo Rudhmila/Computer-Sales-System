@@ -1,2 +1,2 @@
 # Computer-Sales-System
-Computer Sale System using Python, Django, MySQL, DB
+Computer Sale System using Python, Django, HTML, CSS, Javascript, Bootstrap
